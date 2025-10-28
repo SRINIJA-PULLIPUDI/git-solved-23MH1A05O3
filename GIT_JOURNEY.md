@@ -130,6 +130,14 @@ merge conflicts across multiple branches using proper Git workflows.
 - **Time**: 15 minutes for careful review and structured merging.
 - **Note**: Experimental content retained for future release versions but excluded from stable 1.x/2.x builds.
 
+## Testing
+- After completing all merge conflict resolutions, the functionality of the application was tested to ensure stability and correctness.
+
+#### Commands Used to Test
+- set NODE_ENV=development
+- npm install
+- npm run dev
+
 ## Most Challenging Parts
 
 1. **Understanding Conflict Markers**: Initially confused by `<<<<<<<`, `=======`, `>>>>>>>` symbols. Learned that HEAD is current branch and the other side is incoming changes.
