@@ -43,6 +43,7 @@ DevOps Simulator follows a microservices architecture designed for high availabi
 <!-- # System Architecture - Experimental Build
 These are commented-out because they are not ready for the production
 ## Overview
+
 DevOps Simulator follows an **event-driven microservices architecture** with AI/ML integration, designed for multi-cloud deployments and chaos engineering.
 
 **⚠️ EXPERIMENTAL**: This architecture includes untested cutting-edge features.
@@ -81,3 +82,4 @@ DevOps Simulator follows an **event-driven microservices architecture** with AI/
 ### 5. Advanced Monitoring & Observability
 - **Metrics**: Prometheus + Thanos (long-term storage)
 - **Logs**: ELK Stack + AI log analysis -->
+
