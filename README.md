@@ -42,5 +42,7 @@ export DEPLOY_ENV=production
 export NODE_ENV=development
 npm install
 npm run dev
-```"## FAQ" 
-"update" 
+```
+
+## FAQ 
+update 
